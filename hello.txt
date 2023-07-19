@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 harshith!
+=======
+harshith!!
+>>>>>>> 6e44bca039c5c97ff25166cfa91f5f7f3581db86
 hello
